@@ -138,7 +138,9 @@ nav {
     .wrapper {
       width: 50%;
     }
-  
+    header {
+        height: 70vh;
+      }
     nav {
       padding: 0px 0px;
     }
