@@ -10,7 +10,7 @@ header {
     perspective: 1px;
     width: 100%;
     text-align: center;
-    background: url("../assets/img/1626576371638.jpg");
+    background: url("./assets/img/1626576371638.jpg");
     background-size: cover;
     height: 70vh;
     display: table;
