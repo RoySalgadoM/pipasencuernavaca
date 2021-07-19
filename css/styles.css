@@ -1,11 +1,15 @@
-header {
-    margin: 0;
-    padding: 0;
-    perspective: 1px;
+.img-car{
     width: 100%;
-    text-align: center;
-    background-size: cover;
-    height: 10vh;
-    display: table;
+    height: 60vh;
+}
+@media only screen and (max-width: 850px) {
+    .img-car{
+        height: 50vh;
+    }
   }
 
+  @media only screen and (max-width: 500px) {
+    .img-car{
+        height: 30vh;
+    }
+  }
